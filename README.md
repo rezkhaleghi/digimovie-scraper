@@ -23,11 +23,11 @@ This scraper is built to systematically collect movie metadata, including titles
 ## Required Environment Variables
 
 ```env
-MONGO_URI=your_mongodb_connection_string
-DB_NAME=your_database_name
-DM_COOKIE_NAME=your_cookie_name
-DM_COOKIE_VALUE=your_cookie_value
-DM_COOKIE_EXPIRES=your_cookie_expiration
+MONGO_URI=your_mongodb_connection_string(example: mongodb://localhost:27017)
+DB_NAME=your_database_name(example: "digimoviez")
+DM_COOKIE_NAME=your_cookie_name(your cookie name from digimoviez.com)
+DM_COOKIE_VALUE=your_cookie_value(your cookie value from digimoviez.com)
+DM_COOKIE_EXPIRES=your_cookie_expiration(your cookie value from digimoviez.com example:"2025-02-19T06:11:29.470Z")
 ```
 
 ## Data Structure
