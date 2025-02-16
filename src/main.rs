@@ -3,11 +3,10 @@ extern crate lazy_static;
 
 use scraper::{Html, Selector};
 use serde::{Deserialize, Serialize};
-use mongodb::{bson::doc, options::ClientOptions, Client};
+use mongodb::{bson::doc, options::ClientOptions, Client,bson::DateTime,bson};
 use std::error::Error;
 use tokio;
 use reqwest::header::{HeaderMap, HeaderValue, COOKIE};
-use bson::DateTime;
 use dotenv::dotenv;
 use std::env;
 

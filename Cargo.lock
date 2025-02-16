@@ -353,14 +353,12 @@ dependencies = [
 name = "digimovie-scraper"
 version = "0.1.0"
 dependencies = [
- "bson",
  "dotenv",
  "lazy_static",
  "mongodb",
  "reqwest",
  "scraper",
  "serde",
- "serde_json",
  "tokio",
 ]
 
