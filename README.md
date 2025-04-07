@@ -175,7 +175,7 @@ Created and maintained by "PocketJack (Rez Khaleghi)"
 - GitHub: https://github.com/rezkhaleghi
 - Email: rezaxkhaleghi@gmail.com
 
-  ## Support
+## Support
 
 If you enjoy this app and would like to support my work:
 
