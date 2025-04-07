@@ -174,3 +174,10 @@ Created and maintained by "PocketJack (Rez Khaleghi)"
 
 - GitHub: https://github.com/rezkhaleghi
 - Email: rezaxkhaleghi@gmail.com
+
+  ## Support
+
+If you enjoy this app and would like to support my work:
+
+- Patreon : https://patreon.com/PocketJack
+  Your support helps me continue developing free and open-source stuff.
